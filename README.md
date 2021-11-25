@@ -3,7 +3,7 @@
 ##Hello Bihar!!!
 
 Hello All!!!
-=======
+
 Today is beautiful day!!
 
 this is the child branch ch1
