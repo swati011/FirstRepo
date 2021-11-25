@@ -6,5 +6,5 @@ Hello All!!!
 =======
 Today is beautiful day!!
 
-this branch ch1
+this is the child branch ch1
 
